@@ -13,7 +13,7 @@
       xl:w-1/2
       w-5/6
       m-auto
-      xl:ml-32
+      xl:ml-28
       shadow-lg shadow-gray-400
       lg:px-7
       py-4
@@ -21,7 +21,7 @@
       px-4
     "
   >
-    <div class="flex lg:pr-10">
+    <div class="flex lg:pr-0">
       <div class="flex-1 flex text-black items-center">
         <!-- <img src="./assets/img/Logo/5.png" class="lg:w-48 w-32"> -->
         <p
@@ -32,7 +32,7 @@
             lg:text-3xl
             text-lg
             py-5
-            lg:ml-10
+            lg:ml-2
             mr-2
           "
         >
@@ -67,7 +67,7 @@
 <style>
 @font-face {
   font-family: "BlueGobet";
-  src: url("/font/BlueGobletRegular.otf");
+  src: url("/font/Dyonisius.ttf");
 }
 #app {
   font-family: "BlueGobet", sans-serif;
