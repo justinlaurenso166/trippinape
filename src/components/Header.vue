@@ -49,7 +49,7 @@ const showMenu = ref(false);
                   font-bold
                 "
               >
-                Tripping Ape <br> Etherium Club
+                Trippin Ape <br> Etherium Club
               </div>
             </a>
           </div>
@@ -199,7 +199,7 @@ const showMenu = ref(false);
                       text-2xl
                     "
                   >
-                    Tripping Ape <br> Etherium Club
+                    Trippin Ape <br> Etherium Club
                   </div>
                 </a>
               </div>
