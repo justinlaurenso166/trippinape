@@ -18,7 +18,7 @@ import Header from "../components/Header.vue"
         <header>
             <Header />
         </header>
-        <main class="flex items-center justify-center h-screen text-white text-center text-xl xl:text-3xl">
+        <main class="flex items-center justify-center h-screen text-white text-center text-xl xl:text-3xl bg-prime bg-opacity-40">
             <!-- <img src="../assets/img/homepage1.png"  class="w-full"> -->
         </main>
         <!-- <main class="bg-prime flex items-center justify-center h-screen text-prime text-left text-xl xl:text-4xl font-bold">

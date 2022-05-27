@@ -44,9 +44,11 @@ const showMenu = ref(false);
                   text-white
                   opacity-80
                   hover:opacity-100 hover:text-dark
-                  text-4xl
+                  lg:text-4xl
+                  text-2xl
                   px-4
                   font-bold
+                  text-center
                 "
               >
                 Trippin Ape <br> Etherium Club
