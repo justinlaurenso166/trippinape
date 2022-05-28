@@ -38,11 +38,11 @@ const showMenu = ref(false);
             <a class="w-min-content" href="/">
               <div
                 class="
-                  hover:bg-prime hover:bg-opacity-20
+                  hover:bg-prime hover:bg-opacity-50
                   p-2
                   rounded-lg
                   text-white
-                  opacity-80
+                  opacity-90
                   hover:opacity-100 hover:text-dark
                   lg:text-4xl
                   text-2xl
@@ -51,7 +51,7 @@ const showMenu = ref(false);
                   text-center
                 "
               >
-                Trippin Ape <br> Etherium Club
+                Trippin Ape <br> Yacht Tribe
               </div>
             </a>
           </div>
@@ -60,7 +60,7 @@ const showMenu = ref(false);
           <ul class="flex space-x-7">
             <li class="">
               <a
-                href=""
+                href="https://twitter.com/trippinapeyt?s=21&t=V1IsqZJVe4yxoaf20XAKIA"
                 target="_blank"
                 class="
                   w-full
@@ -201,7 +201,7 @@ const showMenu = ref(false);
                       text-2xl
                     "
                   >
-                    Trippin Ape <br> Etherium Club
+                    Trippin Ape <br> Yacht Tribe
                   </div>
                 </a>
               </div>
@@ -209,7 +209,7 @@ const showMenu = ref(false);
             <ul class="text-xl w-full uppercase font-900 pt-10">
               <li class="border-b border-black border-opacity-10">
                 <a
-                  href=""
+                  href="https://twitter.com/trippinapeyt?s=21&t=V1IsqZJVe4yxoaf20XAKIA"
                   target="_blank"
                   class="
                     py-3

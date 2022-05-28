@@ -13,7 +13,7 @@
       xl:w-1/2
       w-5/6
       m-auto
-      xl:ml-28
+      xl:ml-24
       shadow-lg shadow-gray-400
       lg:px-7
       py-4
@@ -43,7 +43,7 @@
         <a target="_blank" href="https://mintgoblinkids.xyz">
           <button
             class="
-              bg-prime
+              bg-teal-800
               font-bold
               tracking-widest
               text-white
@@ -53,7 +53,7 @@
               py-3
               rounded-lg
               xl:text-3xl lg:mr-0
-              hover:bg-opacity-70
+              hover:bg-opacity-80
             "
           >
             MINT
@@ -66,11 +66,11 @@
 
 <style>
 @font-face {
-  font-family: "BlueGobet";
+  font-family: "Dyonisius";
   src: url("/font/Dyonisius.ttf");
 }
 #app {
-  font-family: "BlueGobet", sans-serif;
+  font-family: "Dyonisius", sans-serif;
     background: url("./assets/img/homepage.png") no-repeat center center fixed;
     height: 100vh;
     -webkit-background-size: cover;
