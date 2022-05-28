@@ -118,7 +118,7 @@ const showMenu = ref(false);
             </li>
             <li class="">
               <a
-                href=""
+                href="https://opensea.io/collection/trippinapeyachttribe"
                 target="_blank"
                 class="
                   w-full
@@ -259,7 +259,7 @@ const showMenu = ref(false);
               </li>
               <li class="border-b border-black border-opacity-10">
                 <a
-                  href=""
+                  href="https://opensea.io/collection/trippinapeyachttribe"
                   target="_blank"
                   class="
                     py-3
