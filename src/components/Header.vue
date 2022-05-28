@@ -224,7 +224,7 @@ const showMenu = ref(false);
                   >twitter
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="ml-auto fill-current stroke-current h-4 w-4"
+                    class="ml-auto fill-current stroke-current h-5 w-5"
                     viewBox="0 0 40 40"
                   >
                     <path
@@ -249,7 +249,7 @@ const showMenu = ref(false);
                   >discord
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="ml-auto fill-current stroke-current h-4 w-4"
+                    class="ml-auto fill-current stroke-current h-5 w-5"
                     viewBox="0 0 40 40"
                   >
                     <path
@@ -274,7 +274,7 @@ const showMenu = ref(false);
                   >opensea
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
-                    class="ml-auto fill-current stroke-current h-4 w-4"
+                    class="ml-auto fill-current stroke-current h-5 w-5"
                     viewBox="0 0 40 40"
                   >
                     <path
