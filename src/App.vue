@@ -40,7 +40,7 @@
         </p>
       </div>
       <div class="xl:flex-1 flex-0 flex justify-end self-center">
-        <a target="_blank" href="">
+        <a target="_blank" href="https://minttrippinapeyachttribe.com">
           <button
             class="
               bg-teal-800
